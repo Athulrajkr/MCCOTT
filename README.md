@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://te.legra.ph/file/306cb200e4f9b29a375ce.jpg" alt="DQ-The-File-Donor Logo">
 </p>
 <h1 align="center">
   <b>DQ-The-File-Donor Bot</b>
