@@ -5,7 +5,7 @@
   <b>Mᴄᴄ Oᴛᴛ Bᴏᴛ</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Mᴄᴄ Oᴛᴛ Bᴏᴛ!;Created+by+Jᴏᴇʟ+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Mᴄᴄ_Oᴛᴛ_Bᴏᴛ!;Created+by+Jᴏᴇʟ+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 
 [![Stars](https://img.shields.io/github/stars/Joelkb/DQ-The-File-Donor?style=flat-square&color=yellow)](https://github.com/Joelkb/DQ-The-File-Donor/stargazers)
