@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/306cb200e4f9b29a375ce.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://te.legra.ph/file/306cb200e4f9b29a375ce.jpg" alt="Mᴄᴄ_Oᴛᴛ_Bᴏᴛ Logo">
 </p>
 <h1 align="center">
   <b>Mᴄᴄ Oᴛᴛ Bᴏᴛ</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Mᴄᴄ_Oᴛᴛ_Bᴏᴛ!;Created+by+Jᴏᴇʟ+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Mᴄᴄ_Oᴛᴛ_Bᴏᴛ!;Created+by+MᴄᴄAssɪᴛBᴏᴛ!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 
 [![Stars](https://img.shields.io/github/stars/Joelkb/DQ-The-File-Donor?style=flat-square&color=yellow)](https://github.com/Joelkb/DQ-The-File-Donor/stargazers)
