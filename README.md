@@ -2,7 +2,7 @@
   <img src="https://te.legra.ph/file/306cb200e4f9b29a375ce.jpg" alt="DQ-The-File-Donor Logo">
 </p>
 <h1 align="center">
-  <b>DQ-The-File-Donor Bot</b>
+  <b>Mᴄᴄ Oᴛᴛ Bᴏᴛ</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DQ-The-File-Donor!;Created+by+Jᴏᴇʟ+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
